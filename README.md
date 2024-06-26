@@ -1,2 +1,4 @@
-# Hello Wolrd
- Primeiros projetos
+# Hello Wolrd!
+
+Primeiros projetos.
+Criando repositorio.
