@@ -2,4 +2,3 @@
 
 Primeiros projetos.
 Criando repositorio!!
-Aprendendo Git......!!!
